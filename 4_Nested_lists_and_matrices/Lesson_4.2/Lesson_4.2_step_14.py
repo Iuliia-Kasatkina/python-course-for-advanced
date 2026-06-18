@@ -13,3 +13,12 @@ print(maximum)
 
 
 """
+
+list1 = [[1, 7, 8], [9, 7, 102], [6, 106, 105], [100, 99, 98, 103], [1, 2, 3]]
+maximum1 = 1
+for i in range(len(list1)):
+    maximum2 = max(list1[i])
+    if maximum2 > maximum1:
+        maximum1 = maximum2
+
+print(maximum1)
