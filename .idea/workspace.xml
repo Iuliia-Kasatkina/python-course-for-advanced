@@ -5,13 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8afa51ce-6934-4bba-877b-235ca7164faa" name="Changes" comment="Created new project Python_course_for_advanced_Stepik.iml and added new files">
+      <change afterPath="$PROJECT_DIR$/6_Tuples/Lesson_6.2/Lesson_6.2_step_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Tuples/Lesson_6.2/Lesson_6.2_step_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Tuples/Lesson_6.2/Lesson_6.2_step_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Tuples/Lesson_6.2/Lesson_6.2_step_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Tuples/Lesson_6.2/Lesson_6.2_step_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Tuples/Lesson_6.2/Lesson_6.2_step_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Tuples/Lesson_6.2/Lesson_6.2_step_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Tuples/Lesson_6.2/Lesson_6.2_step_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Tuples/Lesson_6.2/Lesson_6.2_step_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Tuples/Lesson_6.2/Lesson_6.2_step_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Tuples/Lesson_6.2/Lesson_6.2_step_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Tuples/Lesson_6.2/Lesson_6.2_step_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Tuples/Lesson_6.2/Lesson_6.2_step_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Tuples/Lesson_6.3/Lesson_6.3_step_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Tuples/Lesson_6.3/Lesson_6.3_step_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Tuples/Lesson_6.3/Lesson_6.3_step_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Repeat_the_basic_structures/Lesson_2.1/Lesson_2.1_step_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Repeat_the_basic_structures/Lesson_2.1/Lesson_2.1_step_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Nested_lists_and_matrices/Lesson_4.2/Lesson_4.2_step_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Nested_lists_and_matrices/Lesson_4.2/Lesson_4.2_step_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Nested_lists_and_matrices/Lesson_4.2/Lesson_4.2_step_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Nested_lists_and_matrices/Lesson_4.2/Lesson_4.2_step_13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Nested_lists_and_matrices/Lesson_4.2/Lesson_4.2_step_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Nested_lists_and_matrices/Lesson_4.2/Lesson_4.2_step_14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Nested_lists_and_matrices/Lesson_4.2/Lesson_4.2_step_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Nested_lists_and_matrices/Lesson_4.2/Lesson_4.2_step_15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Nested_lists_and_matrices/Lesson_4.2/Lesson_4.2_step_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Nested_lists_and_matrices/Lesson_4.2/Lesson_4.2_step_16.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +38,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Iuliia-Kasatkina&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:Iuliia-Kasatkina/python-course-for-advanced.git",
+    "accountId": "e6eccfc7-81f9-4151-a1f0-b6af0fc502ce"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -48,6 +70,11 @@
     "last_opened_file_path": "C:/yuliya/FIX/projects/project"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pastuhova.y\PycharmProjects\Python_course_for_advanced_Stepik\6_Tuples\Lesson_6.2" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,8 +99,27 @@
       <option name="project" value="LOCAL" />
       <updated>1759389550358</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created new project Python_course_for_advanced_Stepik.iml and added new files">
+      <option name="closed" value="true" />
+      <created>1781770295610</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1781770295610</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created new project Python_course_for_advanced_Stepik.iml and added new files" />
